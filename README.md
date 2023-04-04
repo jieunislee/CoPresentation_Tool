@@ -1,7 +1,7 @@
 # CoPresentation Tool
 ![Header](https://user-images.githubusercontent.com/98379268/229664574-f3fce858-467f-4626-a84f-a1c3e9f75de6.jpg)
 
-Visit: https://www.jieunlee.org/arcocreation for more information.
+Visit: https://www.jieunlee.org/copresentation for more information.
 
 ## Summary
 
