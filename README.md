@@ -1,5 +1,8 @@
-# CoPresentation_Tool
-#Collaboration #Presentation #Web #App #Java #Firebase
+# CoPresentation Tool
+![Header](https://user-images.githubusercontent.com/98379268/229664574-f3fce858-467f-4626-a84f-a1c3e9f75de6.jpg)
 
-**Architecture**
-<img width="1144" alt="Screen Shot 2022-03-31 at 1 54 20 PM" src="https://user-images.githubusercontent.com/98379268/228400128-c22509d5-1be8-4301-b254-1a8327993f51.png">
+## Features
+
+- Generate Blender Python code from natural language commands
+- Integrated with Blender's UI for easy usage
+- Supports Blender version 3.1 and above
