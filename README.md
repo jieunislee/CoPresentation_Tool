@@ -1,10 +1,11 @@
 # CoPresentation Tool
 ![Header](https://user-images.githubusercontent.com/98379268/229664574-f3fce858-467f-4626-a84f-a1c3e9f75de6.jpg)
+
 Visit: https://www.jieunlee.org/arcocreation for more information.
 
 ## Summary
 
-- We propose CoPresentation Tool to support communicate with the presenter and audience during the conference presentation by:
+We propose CoPresentation Tool to support communicate with the presenter and audience during the conference presentation by:
 1. Providing collaborative interaction with audience and presenter via communication web page to ask questions in real-time. 
 2. Presenting remote control for the presenter that allows to control the presentation slide.
 3. Offering focus mode to shift audience's attention from presentation slide to the presenter by decreasing the brightness of the screen.
